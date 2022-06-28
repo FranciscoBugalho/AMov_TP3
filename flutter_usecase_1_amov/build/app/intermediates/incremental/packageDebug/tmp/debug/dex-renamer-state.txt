@@ -1,0 +1,4 @@
+#Mon Jan 04 12:04:57 GMT 2021
+base.0=C\:\\Users\\jfbug\\Documents\\Francisco\\Universidade\\AMov_Projetos\\Flutter\\Flutter_tp1_AMOV2021\\flutter_usecase_1_amov\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
